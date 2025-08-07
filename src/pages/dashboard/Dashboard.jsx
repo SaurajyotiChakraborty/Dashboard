@@ -1,5 +1,6 @@
 import Statistics from '../../components/Layout/Statistics/Statistics';
-import Order from '../../components/order/Order';
+import Order from '../../components/Order/Order';
+
 import { cardsData, groupNumber } from '../../data';
 import css from './Dashboard.module.css';
 
